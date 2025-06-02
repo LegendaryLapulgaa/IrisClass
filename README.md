@@ -69,12 +69,6 @@ Iris_Classification_Project.docx: Contains a professional report overview of the
 
 Iris_Classification_Presentation.pptx: Presentation slide deck for summary and sharing.
 
----
-
-##📌 Notes 
- 
-This project uses a simple dataset and is ideal for beginners.
-To improve results, consider using cross-validation, hyperparameter tuning, or more advanced models.
 
 ---
 
