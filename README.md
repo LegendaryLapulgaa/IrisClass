@@ -52,34 +52,44 @@ The dataset contains 150 rows of measurements and the corresponding species of t
 ## 🧠 Sample Prediction
 
 # Load model and predict
+
 import joblib
+
 model = joblib.load('iris_model.pkl')
+
 sample = [[5.1, 3.5, 1.4, 0.2]]
+
 print(model.predict(sample))  # Output: ['setosa']
 
 ---
 
 ## 📄 Documentation
+
 Iris_Classification_Project.docx: Contains a professional report overview of the project.
+
 Iris_Classification_Presentation.pptx: Presentation slide deck for summary and sharing.
 
 ---
 
  ##📌 Notes 
+ 
 This project uses a simple dataset and is ideal for beginners.
 To improve results, consider using cross-validation, hyperparameter tuning, or more advanced models.
 
 ---
 
 ## 📝 License
+
 This project is open source under the MIT License.
 
 ---
 
 ## 🤝 Contributions
+
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 ---
 
 ## ✍️ Author
+
 Github – @LegendaryLapulgaa
