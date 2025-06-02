@@ -1,5 +1,3 @@
-Windows sync
-
 # 🌸 Iris Flower Classification with Machine Learning
 
 This project is a supervised machine learning solution to classify **Iris flower species** — *Setosa*, *Versicolor*, and *Virginica* — based on sepal and petal measurements. The project demonstrates a full ML pipeline, from data preprocessing to model deployment, using Python and Scikit-learn.
